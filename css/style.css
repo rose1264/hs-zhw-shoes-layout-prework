@@ -277,7 +277,6 @@ iframe {
 	background: -o-linear-gradient(top,  rgba(229,229,229,1) 0%,rgba(255,255,255,1) 99%); /* Opera 11.10+ */
 	background: -ms-linear-gradient(top,  rgba(229,229,229,1) 0%,rgba(255,255,255,1) 99%); /* IE10+ */
 	background: linear-gradient(to bottom,  rgba(229,229,229,1) 0%,rgba(255,255,255,1) 99%); /* W3C */
-	margin-top: 20px;
 }
 
 	#details a:link, #details a:visited {
@@ -289,6 +288,9 @@ iframe {
 		text-decoration: underline;
 	}
 
+#deals {
+	margin-top: 20px;
+}
 /********** Columns **********/
 
 .col-1 {
